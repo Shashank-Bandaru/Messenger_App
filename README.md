@@ -14,7 +14,7 @@ Message App is a real-time messaging application built using Flutter and Dart. I
 - __Message Delete & Edit Features__: Users have the ability to delete and edit their sent messages.The user can copy his sent or received messages. There is also
   the feature that enables the user to save the images.
 - __Message Notification__: Push notifications are used to notify users about new messages, ensuring they never miss an important conversation.
- _Please note that the push notifications are received only if the app is in the background . If needed you can modify your code to receive the foreground notifications
+ _Please note that the push notifications are received only if the app is in the background. If needed you can modify your code to receive the foreground notifications
 or the local notifications by using suitable packages_.
 - __Deleting Users from User List__ : Users have the ability to delete the other users from their user list.
   - Please note that the chat conversation still remains in the database so if you add the user back again you will be able to retrieve all the messages and also recieve the new messages
